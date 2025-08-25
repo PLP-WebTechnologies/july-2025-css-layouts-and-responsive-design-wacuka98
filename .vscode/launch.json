@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/july-2025-css-layouts-and-responsive-design-wacuka98/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/july-2025-css-layouts-and-responsive-design-wacuka98/index.html"
+        }
+    ]
+}
